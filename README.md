@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sudhishna 👋
 
-<!--
-**Sudhishna04/Sudhishna04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year Electronics & Communication Engineering Student
 
-Here are some ideas to get you started:
+## About Me
+- 📚 Pursuing B.Tech in Electronics & Communication Engineering
+- 💡 Interested in Embedded Systems, IoT, and Software Development
+- 🌱 Currently learning Python, Git, and GitHub
+- 🚀 Looking for Internship and Full-Time Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C
+- Python
+- Embedded Systems
+- IoT
+- Arduino
+- Git & GitHub
+
+## Connect with Me
+- LinkedIn: www.linkedin.com/in/sudhishna-gattu-759749422
